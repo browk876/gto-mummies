@@ -1,0 +1,19 @@
+body {
+    background-color:black;
+}
+h1 {
+    
+    font-size: 25px;
+    text-align:center;
+    margin-top: 25%;
+    margin-bottom:25%;
+    color: white;
+}
+
+.img {
+    display:flex;
+    flex-wrap: nowrap;
+    align-items: center;
+
+
+}
