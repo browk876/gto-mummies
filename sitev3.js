@@ -52,9 +52,7 @@ theMummification: {
     }
     }
 }
-var outputElement = document.getElementById("gtomummies");
 
-outputElement.innerHTML = "relevance: " + gtoMummies.mummyRelevance + "   is  this natural? " + gtoMummies.theMummification.isNatural + "<br >natural cause:  " + gtoMummies.theMummification.naturalCause;
 
 
 var outputElement = document.getElementById("gtomummiesp2");
