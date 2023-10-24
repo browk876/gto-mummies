@@ -13,8 +13,8 @@ h1 {
     display:flex;
     flex-wrap: nowrap;
     align-items: center;
-    max-width: 100px; 
-    max-height: 150px;
+    width: 150px; 
+    height: 50%;
     
 
 }
