@@ -8,6 +8,12 @@ h1 {
     color: white;
 }
 
+p {
+    font-size: 20px;
+    text-align:center;
+    color: white;
+}
+
 .pic1 {
    
     width: 650px; 

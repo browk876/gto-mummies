@@ -1,4 +1,4 @@
-const gtoMummies = {
+var gtoMummies = {
     country: 'Mexico',
 city: 'Guanajuato City' ,
 state: 'GTO' ,
@@ -52,3 +52,6 @@ theMummification: {
     }
     }
 }
+var outputElement = document.getElementById("gtomummies");
+
+outputElement.innerHTML = "mummyRelevance " + gtoMummies.country + " " + gtoMummies.city + "<br>naturalCause: " + gtoMummies.naturalCause;
