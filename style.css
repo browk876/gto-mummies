@@ -9,11 +9,7 @@ h1 {
 }
 
 .img {
-
-    display:flex;
-    flex-wrap: nowrap;
-    align-items: center;
-    width: 150px; 
+    width: 100px; 
     height: 50%;
     
 
